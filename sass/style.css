@@ -1,0 +1,30 @@
+header {
+  height: 450px;
+  background: #ccc; }
+  header .logo {
+    width: 50px;
+    height: 50px;
+    background: #999; }
+  header nav a {
+    display: inline-block;
+    margin-left: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none; }
+    header nav a:hover {
+      color: black; }
+  header h1 {
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.05em; }
+    header h1 span {
+      display: inline-block;
+      padding: 0.5em;
+      border: white solid 10px; }
+
+/*# sourceMappingURL=style.css.map */
