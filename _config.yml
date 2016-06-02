@@ -1,0 +1,10 @@
+# Site settings
+title: Artists Theme
+email: artist@email
+description: "Thinker | Designer | Innovator"
+
+#Build settings
+markdown: kramdown
+permalink: pretty
+
+port: 4000
