@@ -1,0 +1,64 @@
+section
+	font-family: 'Open Sans', sans-serif
+
+	h3
+		@extend %small-bold
+		color: $darkgrey
+		text-align: center
+		padding: 100px 0 30px
+
+	.face-lockup
+		max-width: 780px
+		+display(flex)
+		margin: 0 auto
+		+align-items(center)
+		+justify-content(space-around)
+
+		.face-image
+			+size(200px)
+			background: url(/images/face.jpg)
+			order: 3
+
+		[class^="icon-"]
+			+size(100px) 
+			background: $bgcolor
+			border-radius: 50%
+
+			path
+				fill: $darkgrey
+
+			&.icon-pencil
+				order: 1
+			&.icon-mouse
+				order: 2	
+			&.icon-browser
+				order: 4	
+			&.icon-video
+				order: 5
+
+	@media screen and (max-width: 650px)
+		.face-lockup
+			display: block
+			text-align: center
+
+			div
+				display: inline-block
+
+			.face-image	
+				display: block
+				background-position: center center
+				background-repeat: no-repeat
+				width: auto
+				margin-bottom: 30px
+
+			[class^="icon-"]
+				margin: 10px
+
+
+	.blurb
+		max-width: 620px
+		padding: 0 15px
+		margin: 50px auto
+		font-size: 24px
+		text-align: center
+		weight: 400		
