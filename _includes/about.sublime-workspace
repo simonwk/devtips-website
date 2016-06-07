@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"a",
+				"ac	:active"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"out",
+				"outline-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li	:link"
+			],
+			[
+				"bruce",
+				"bruce"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pic",
+				"pic"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 139.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SWK/Desktop/devtips-website/_includes/icons/icon-mouse.html",
+		"/C/Users/SWK/Desktop/devtips-website/_includes/icons/icon-browser.html",
+		"/C/Users/SWK/Desktop/devtips-website/_config.yml",
+		"/C/Users/SWK/Desktop/devtips-website/sass/_footer.sass",
+		"/C/Users/SWK/Desktop/devtips-website/sass/_header.sass",
+		"/C/Users/SWK/Desktop/devtips-website/_includes/icons/icon-video.html",
+		"/C/Users/SWK/Desktop/devtips-website/_includes/icons/icon-pencil.html",
+		"/C/Users/SWK/Desktop/devtips-website/sass/_vars.sass",
+		"/C/Users/SWK/Desktop/devtips-website/sass/_about.sass",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/prod.html",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/style.css",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/tech.html",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/index.html",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/aboutus.html",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/contact.html",
+		"/C/Users/SWK/Desktop/EOTRON_WEBSITE/New folder/slider.js",
+		"/C/Users/SWK/Desktop/devtips-website/_includes/header.html",
+		"/C/Users/SWK/Desktop/devtips-website/index.html",
+		"/C/Users/SWK/Desktop/devtips-website/sass/header.sass",
+		"/C/Users/SWK/Desktop/devtips-website/sass/style.sass",
+		"/C/Users/SWK/Desktop/devtips-website/sass/style.css",
+		"/C/Users/SWK/Desktop/devtips-website/css/sass/header.sass",
+		"/C/Users/SWK/Desktop/devtips-website/css/main.css",
+		"/C/Users/SWK/Desktop/devtips-website/css/sass/_header.sass",
+		"/C/Users/SWK/Desktop/devtips-website/assets/css/3-sections/_-sections-dir.sass",
+		"/C/Users/SWK/Desktop/devtips-website/assets/css/3-sections/_header.sass",
+		"/C/Users/SWK/Desktop/devtips-website/assets/css/all.sass",
+		"/C/Users/SWK/Desktop/devtips-website/assets/css/all.css",
+		"/C/Users/SWK/Desktop/devtips-website/assets/js/functions.js",
+		"/C/Users/SWK/Desktop/devtips-website/assets/all.css",
+		"/C/Users/SWK/Desktop/devtips-website/config.yml",
+		"/C/Users/SWK/Desktop/dev tips website/main.js",
+		"/C/Users/SWK/Desktop/dev tips website/main.css",
+		"/C/Users/SWK/Desktop/dev tips website/index.html",
+		"/C/Users/SWK/Desktop/EOTRON WEBSITE/CSS/main.css",
+		"/C/Users/SWK/Desktop/EOTRON WEBSITE/index.html",
+		"/C/Users/SWK/Desktop/EOTRON WEBSITE/JS/main.js",
+		"/C/Users/SWK/Desktop/DevTips-Starter-Kit/_includes/header.html",
+		"/C/Users/SWK/Desktop/DevTips-Starter-Kit/index.html",
+		"/C/Users/SWK/Desktop/portfolio/css/main.scss",
+		"/C/Users/SWK/Desktop/portfolio/_includes/header.html",
+		"/C/Users/SWK/Desktop/portfolio/_includes/head.html",
+		"/C/Users/SWK/Desktop/portfolio/_config.yml",
+		"/C/Users/SWK/Desktop/TechnoTut-Image-Slider/main.css",
+		"/C/Users/SWK/Desktop/TechnoTut-Image-Slider/index.html",
+		"/C/Users/SWK/Desktop/Image Slider/main.js",
+		"/C/Users/SWK/Desktop/Image Slider/main.css",
+		"/C/Users/SWK/Desktop/Image Slider/index.html",
+		"/C/Users/SWK/Desktop/Panel Widget/index.html",
+		"/C/Users/SWK/Desktop/Panel Widget/main.js",
+		"/C/Users/SWK/Desktop/Panel Widget/main.css",
+		"/C/Users/SWK/Desktop/jQuery site/index.html",
+		"/C/Users/SWK/Desktop/Dom traversal/index.html",
+		"/C/Users/SWK/Desktop/sampleRepo/index.html",
+		"/C/Users/SWK/Desktop/live-server/live-server/Sample Website/index.html",
+		"/C/Users/SWK/Desktop/live-server/js/script.js",
+		"/C/Users/SWK/Desktop/live-server/css/style.css",
+		"/C/Users/SWK/Desktop/live-server/index.html",
+		"/C/Users/SWK/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/SWK/Desktop/live-server/js/script.css",
+		"/C/Users/SWK/Desktop/Sample websites/gym.js",
+		"/C/Users/SWK/Desktop/Sample websites/gym.css",
+		"/C/Users/SWK/Desktop/Sample websites/gym.html",
+		"/C/Users/SWK/Desktop/Sample websites/jquery.blueberry.js",
+		"/C/Users/SWK/Desktop/Sample websites/jquery.html",
+		"/C/Users/SWK/Desktop/Sample websites/index.html",
+		"/C/Users/SWK/Desktop/gym.css",
+		"/C/Users/SWK/Desktop/gym.html",
+		"/C/Users/SWK/Desktop/index.css",
+		"/C/Users/SWK/Desktop/index.html",
+		"/C/Users/SWK/Desktop/sample webstie/index.html",
+		"/C/Users/SWK/Desktop/sample webstie/meta.html",
+		"/C/Users/SWK/Desktop/html practice/gitTest/index2.html",
+		"/C/Users/SWK/Desktop/html practice/gitTest/index.html",
+		"/C/Users/SWK/Desktop/html practice/events.js",
+		"/C/Users/SWK/Desktop/html practice/events.css",
+		"/C/Users/SWK/Desktop/html practice/events.html",
+		"/C/Users/SWK/Desktop/html practice/main.js",
+		"/C/Users/SWK/Desktop/html practice/main.css",
+		"/C/Users/SWK/Desktop/html practice/index.html",
+		"/C/Users/SWK/Desktop/html practice/main1.css",
+		"/C/Users/SWK/Desktop/html practice/main1.js",
+		"/C/Users/SWK/Desktop/html practice/index1.html",
+		"/C/Users/SWK/Desktop/html practice/index2.html",
+		"/C/Users/SWK/Desktop/html practice/other.css",
+		"/C/Users/SWK/Desktop/html practice/main2.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"none",
+			"100px",
+			">\n",
+			"alt=\"\">",
+			"Rock",
+			"Out",
+			"mouseover",
+			"Toggle",
+			"click",
+			"Out",
+			"{\n",
+			"h3",
+			"h2",
+			"center",
+			"section",
+			"img",
+			"hover",
+			"simon",
+			">\n",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
