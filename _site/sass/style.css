@@ -117,7 +117,7 @@ section {
     section .face-lockup .face-image {
       height: 200px;
       width: 200px;
-      background: url(/images/face.jpg);
+      background: url(../images/face.jpg);
       order: 3; }
     section .face-lockup [class^="icon-"] {
       height: 100px;
